@@ -1,0 +1,27 @@
+export const rightsKeys = [
+	"help_view",
+	"profile_view",
+	"history_view",
+	"dashboard",
+	"settings",
+	"all_users",
+	"assigned_complaint_view",
+	"super_admin_rights",
+	"create-complaint",
+	"view-own-complaints",
+	"edit-complaint",
+	"delete-complaint",
+	"assign-complaint",
+	"view-all-complaints",
+	"update-complaint-status",
+	"upload-before-image",
+	"upload-after-image",
+	"comment-complaint",
+	"like-complaint",
+	"provide-feedback",
+	"manage-users",
+	"manage-groups",
+	"manage-rights",
+];
+
+export const groupKeys = ["users", "Super Admin", "Admin", "Worker"];
