@@ -101,7 +101,7 @@ const htmlContent = `
 
 import React, { useRef, useState } from "react";
 import WebViewComponent from "../WebViewComponent";
-
+//pie chart 
 const PieChart = () => {
 	const [locationReady, setLocationReady] = useState(false);
 	const webviewRef = useRef<any>(null);
