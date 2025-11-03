@@ -1,5 +1,5 @@
 const otpGenerator = require("otp-generator");
-
+//random otp generator
 exports.generateOtp = () => {
 	return otpGenerator.generate(4, {
 		digits: true,
